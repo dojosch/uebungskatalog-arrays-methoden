@@ -1,1 +1,1 @@
-# uebungskatalog-arrays-methoden
+# Übungskatalog: Arrays & Methoden
